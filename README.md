@@ -13,6 +13,10 @@
 
 A Model Context Protocol server for [Scrapybara](https://scrapybara.com). This server enables MCP clients such as [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), and [Windsurf](https://codeium.com/windsurf) to interact with virtual Ubuntu desktops and take actions such as browsing the web, running code, and more.
 
+<a href="https://glama.ai/mcp/servers/g1ig1ibrsc">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/g1ig1ibrsc/badge" alt="Scrapybara MCP server" />
+</a>
+
 ## Prerequisites
 
 - Node.js 18+
