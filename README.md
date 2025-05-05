@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scrapybara-scrapybara-mcp-badge.png)](https://mseep.ai/app/scrapybara-scrapybara-mcp)
+
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
