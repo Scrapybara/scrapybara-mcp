@@ -63,7 +63,7 @@ pnpm build
 ## Tools
 
 - **start_instance** - Start a Scrapybara Ubuntu instance. Use it as a desktop sandbox to access the web or run code. Always present the stream URL to the user afterwards so they can watch the instance in real time.
-- **get_instances** - Get all running Scrapybara instances.
+- **get_instances** - Get all running Scrapybara instances. Returns each instance's id and status.
 - **stop_instance** - Stop a running Scrapybara instance.
 - **bash** - Run a bash command in a Scrapybara instance.
 - **act** - Take action on a Scrapybara instance through an agent. The agent can control the instance with mouse/keyboard and bash commands.

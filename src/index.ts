@@ -77,7 +77,8 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
       },
       {
         name: "get_instances",
-        description: "Get all running Scrapybara instances.",
+        description:
+          "Get all running Scrapybara instances. Returns each instance's id and status.",
         inputSchema: zodToJsonSchema(GetInstancesSchema),
       },
       {
